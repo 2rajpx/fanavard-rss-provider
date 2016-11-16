@@ -1,0 +1,1 @@
+# fanavard-rss-provider
